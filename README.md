@@ -1,4 +1,4 @@
-In this project, let's build a **Cash Withdrawal** app by applying the concepts we have learned till now.
+# Cash Withdrawal App 💵
 
 ### Refer to the image below:
 
@@ -7,8 +7,6 @@ In this project, let's build a **Cash Withdrawal** app by applying the concepts 
     <img src="https://assets.ccbp.in/frontend/content/react-js/cash-withdrawal-output-v2.gif" alt="cash withdrawal" style="max-width:90%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
-
-# Cash Withdrawal App 💵
 
 A simple and interactive **Cash Withdrawal** web application built using **React JS**. This app simulates a digital ATM interface where users can withdraw amounts using predefined denominations.
 
